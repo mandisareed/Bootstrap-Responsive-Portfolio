@@ -1,3 +1,7 @@
 #potter {
+    max-height: 290px;  
+}
+
+#scheduler {
     max-height: 300px;
 }
